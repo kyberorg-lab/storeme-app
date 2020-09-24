@@ -1,5 +1,5 @@
 export const environment = {
-  name: 'default',
-  production: false,
+  name: 'prod',
+  production: true,
   apiRoot: 'http://localhost:8080'
 };

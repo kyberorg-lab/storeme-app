@@ -1,3 +1,5 @@
 export const environment = {
-  production: true
+  name: 'prod',
+  production: true,
+  apiRoot: 'https://store-api.yadev.eu'
 };
