@@ -10,7 +10,6 @@ Simple CRUD UI that stores notes.
 ### How to start coding
 
 * Install Node and Angular
-
 * Git clone ``` git clone repoUrl ```
 
 * Import to IDE as Angular project
