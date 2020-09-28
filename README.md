@@ -4,21 +4,18 @@ Simple CRUD UI that stores notes.
 ## For Ops
 ### How to Deploy app
 
-* Our docker image: `yadev/storeme`
+Our docker image: `yadev/storeme`
 
 ## For Developers
 ### How to start coding
 
 * Install Node and Angular
-
 * Git clone ``` git clone repoUrl ```
-
 * Import to IDE as Angular project
 
 ### Stack
 
 * Angular 10
-
 * Twitter bootstrap 4
 
 ### About: API doks
