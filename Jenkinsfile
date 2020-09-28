@@ -63,7 +63,7 @@ pipeline {
           tags << dockerTag;
 
           def buildArgs = [];
-          buildArgs << "BUILD_ENV=prod"
+          buildArgs << "BUILD_ENV=production"
 
           dockerBuild(repo: env.DOCKER_REPO, tags: tags, buildArgs: buildArgs);
           dockerLogin(creds: 'hub-docker');
